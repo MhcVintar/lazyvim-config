@@ -9,3 +9,4 @@ This is my configuration repository for NeoVim, which is based on starter templa
 - [Lazygit](https://github.com/jesseduffield/lazygit)
 - a C compiler for [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [ripgrep](https://github.com/BurntSushi/ripgrep) and [fd](https://github.com/sharkdp/fd) for [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+- [Exuberant Ctags](https://ctags.sourceforge.net/) for [tagbar](https://github.com/preservim/tagbar)
