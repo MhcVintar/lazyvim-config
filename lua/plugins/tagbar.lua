@@ -5,6 +5,7 @@ return {
       "<leader>fs",
       ":Tagbar<cr>",
       desc = "Structure (Tagbar)",
+      silent = true,
     },
   },
 }
