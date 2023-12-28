@@ -24,5 +24,7 @@ return {
       expanded = "",
       collapsed = "",
     }
+    vim.g.db_ui_use_nvim_notify = 1
+    vim.g.db_ui_win_position = "right"
   end,
 }
