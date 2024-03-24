@@ -13,32 +13,32 @@ return {
     keys = {
       {
         "<leader>ia",
-        "<cmd>IconPickerNormal<cr>",
+        "<cmd>IconPickerInsert<cr>",
         desc = "All Icons",
       },
       {
         "<leader>if",
-        "<cmd>IconPickerNormal alt_font<cr>",
+        "<cmd>IconPickerInsert alt_font<cr>",
         desc = "Alternative Fonts",
       },
       {
         "<leader>ie",
-        "<cmd>IconPickerNormal emoji<cr>",
+        "<cmd>IconPickerInsert emoji<cr>",
         desc = "Emojis",
       },
       {
         "<leader>ih",
-        "<cmd>IconPickerNormal html_colors<cr>",
+        "<cmd>IconPickerInsert html_colors<cr>",
         desc = "HTML Colors",
       },
       {
         "<leader>in",
-        "<cmd>IconPickerNormal nerd_font<cr>",
+        "<cmd>IconPickerInsert nerd_font<cr>",
         desc = "Nerd Fonts",
       },
       {
         "<leader>is",
-        "<cmd>IconPickerNormal symbols<cr>",
+        "<cmd>IconPickerInsert symbols<cr>",
         desc = "Symbols",
       },
     },
