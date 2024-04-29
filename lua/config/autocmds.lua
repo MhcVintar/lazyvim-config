@@ -10,6 +10,12 @@ vim.api.nvim_create_autocmd("FileType", {
     if file_type == "java" then
       vim.opt.shiftwidth = 4
       vim.opt.tabstop = 4
+    elseif file_type == "c" then
+      vim.opt.shiftwidth = 4
+      vim.opt.tabstop = 4
+    elseif file_type == "go" then
+      vim.opt.shiftwidth = 4
+      vim.opt.tabstop = 4
     end
   end,
 })
