@@ -10,7 +10,7 @@ return {
     {
       "<leader>bu",
       "<cmd>Telescope undo<cr>",
-      desc = "Undo history",
+      desc = "Undo History",
     },
   },
   opts = {
